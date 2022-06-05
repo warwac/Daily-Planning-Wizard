@@ -4,6 +4,8 @@ body {
   line-height: 1;
 }
 
+class {}
+
 textarea{
   background: transparent;
   border: none;
@@ -25,7 +27,7 @@ textarea{
   white-space: pre-wrap;
 }
 
-.timeblock{
+.time-block{
   text-align: center;
   border-radius: 15px;
 }
